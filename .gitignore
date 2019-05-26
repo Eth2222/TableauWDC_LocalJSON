@@ -1,0 +1,2 @@
+#so that I don't upload my personal location history to github
+*.json
